@@ -2994,6 +2994,7 @@ raml-console article#raml-console .resource-placeholder .resource-container .res
 #raml-console-loader .resource-placeholder .resource-container .resource.expanded {
   /* maybe put this on desription / header nav */
 
+  height: 100%;
 }
 raml-console article#raml-console .resource-placeholder .resource-container .resource.expanded .method,
 #raml-console-loader .resource-placeholder .resource-container .resource.expanded .method {
@@ -3082,6 +3083,7 @@ raml-console article#raml-console .get .method-nav-container,
   display: flex;
   flex-direction: column;
   flex: 1;
+  height: 100%;
 }
 raml-console article#raml-console .get .method-nav,
 #raml-console-loader .get .method-nav {
@@ -3169,6 +3171,7 @@ raml-console article#raml-console .get .method-content-container,
   flex-direction: column;
   flex: 1;
   padding: 0 10px;
+  height: 100%;
 }
 raml-console article#raml-console .post.method-name,
 #raml-console-loader .post.method-name {
@@ -3184,6 +3187,7 @@ raml-console article#raml-console .post .method-nav-container,
   display: flex;
   flex-direction: column;
   flex: 1;
+  height: 100%;
 }
 raml-console article#raml-console .post .method-nav,
 #raml-console-loader .post .method-nav {
@@ -3271,6 +3275,7 @@ raml-console article#raml-console .post .method-content-container,
   flex-direction: column;
   flex: 1;
   padding: 0 10px;
+  height: 100%;
 }
 raml-console article#raml-console .delete.method-name,
 #raml-console-loader .delete.method-name {
@@ -3286,6 +3291,7 @@ raml-console article#raml-console .delete .method-nav-container,
   display: flex;
   flex-direction: column;
   flex: 1;
+  height: 100%;
 }
 raml-console article#raml-console .delete .method-nav,
 #raml-console-loader .delete .method-nav {
@@ -3373,6 +3379,7 @@ raml-console article#raml-console .delete .method-content-container,
   flex-direction: column;
   flex: 1;
   padding: 0 10px;
+  height: 100%;
 }
 raml-console article#raml-console .put.method-name,
 #raml-console-loader .put.method-name {
@@ -3388,6 +3395,7 @@ raml-console article#raml-console .put .method-nav-container,
   display: flex;
   flex-direction: column;
   flex: 1;
+  height: 100%;
 }
 raml-console article#raml-console .put .method-nav,
 #raml-console-loader .put .method-nav {
@@ -3475,6 +3483,7 @@ raml-console article#raml-console .put .method-content-container,
   flex-direction: column;
   flex: 1;
   padding: 0 10px;
+  height: 100%;
 }
 raml-console article#raml-console .patch.method-name,
 #raml-console-loader .patch.method-name {
@@ -3490,6 +3499,7 @@ raml-console article#raml-console .patch .method-nav-container,
   display: flex;
   flex-direction: column;
   flex: 1;
+  height: 100%;
 }
 raml-console article#raml-console .patch .method-nav,
 #raml-console-loader .patch .method-nav {
@@ -3577,6 +3587,7 @@ raml-console article#raml-console .patch .method-content-container,
   flex-direction: column;
   flex: 1;
   padding: 0 10px;
+  height: 100%;
 }
 raml-console article#raml-console .head.method-name,
 #raml-console-loader .head.method-name {
@@ -3592,6 +3603,7 @@ raml-console article#raml-console .head .method-nav-container,
   display: flex;
   flex-direction: column;
   flex: 1;
+  height: 100%;
 }
 raml-console article#raml-console .head .method-nav,
 #raml-console-loader .head .method-nav {
@@ -3679,6 +3691,7 @@ raml-console article#raml-console .head .method-content-container,
   flex-direction: column;
   flex: 1;
   padding: 0 10px;
+  height: 100%;
 }
 raml-console article#raml-console .trace.method-name,
 #raml-console-loader .trace.method-name {
@@ -3694,6 +3707,7 @@ raml-console article#raml-console .trace .method-nav-container,
   display: flex;
   flex-direction: column;
   flex: 1;
+  height: 100%;
 }
 raml-console article#raml-console .trace .method-nav,
 #raml-console-loader .trace .method-nav {
@@ -3781,6 +3795,7 @@ raml-console article#raml-console .trace .method-content-container,
   flex-direction: column;
   flex: 1;
   padding: 0 10px;
+  height: 100%;
 }
 raml-console article#raml-console .connect.method-name,
 #raml-console-loader .connect.method-name {
@@ -3796,6 +3811,7 @@ raml-console article#raml-console .connect .method-nav-container,
   display: flex;
   flex-direction: column;
   flex: 1;
+  height: 100%;
 }
 raml-console article#raml-console .connect .method-nav,
 #raml-console-loader .connect .method-nav {
@@ -3883,6 +3899,7 @@ raml-console article#raml-console .connect .method-content-container,
   flex-direction: column;
   flex: 1;
   padding: 0 10px;
+  height: 100%;
 }
 raml-console article#raml-console .options.method-name,
 #raml-console-loader .options.method-name {
@@ -3898,6 +3915,7 @@ raml-console article#raml-console .options .method-nav-container,
   display: flex;
   flex-direction: column;
   flex: 1;
+  height: 100%;
 }
 raml-console article#raml-console .options .method-nav,
 #raml-console-loader .options .method-nav {
@@ -3985,6 +4003,7 @@ raml-console article#raml-console .options .method-content-container,
   flex-direction: column;
   flex: 1;
   padding: 0 10px;
+  height: 100%;
 }
 raml-console article#raml-console .method-name,
 #raml-console-loader .method-name {
@@ -4004,6 +4023,7 @@ raml-console article#raml-console .method,
   background: white;
   display: flex;
   flex-direction: column;
+  height: 100%;
 }
 raml-console article#raml-console .method:first-child,
 #raml-console-loader .method:first-child {
@@ -4111,6 +4131,7 @@ raml-console article#raml-console .documentation,
   display: flex;
   flex: 1;
   flex-direction: column;
+  height: 100%;
 }
 raml-console article#raml-console .documentation .documentation-section,
 #raml-console-loader .documentation .documentation-section {
